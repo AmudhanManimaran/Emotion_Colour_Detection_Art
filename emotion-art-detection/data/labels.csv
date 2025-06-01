@@ -1,4 +1,9 @@
-image,emotion
-art1.jpg,happiness
-art2.jpg,sadness
-art3.jpg,anger
+R,G,B,Emotion
+255,0,0,Anger
+255,165,0,Excitement
+255,255,0,Happiness
+0,128,0,Calm
+0,0,255,Sadness
+128,0,128,Fear
+255,192,203,Love
+128,128,128,Neutral
